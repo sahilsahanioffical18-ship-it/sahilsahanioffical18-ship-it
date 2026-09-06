@@ -18,7 +18,7 @@ role: Full-Stack Developer + AI
 core_stack: [React, Next.js, Node.js, Express, MongoDB, MySQL]
 learning_2026: [DevOps, Agentic AI, LLM Fine-tuning, GenAI Products]
 currently: Building full-stack products & leveling up into the GenAI/DevOps stack
-fuel: 500+ solved coding challenges ☕ (and counting)
+fuel: 200+ solved coding challenges ☕ (and counting)
 looking_for: Collaborations on Full-Stack + AI/GenAI + Web3 projects
 fun_fact: I ship code faster after chai than after coffee
 ```
